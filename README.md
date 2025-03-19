@@ -120,11 +120,6 @@ Here are sample outputs from the training and validation process, showing the mo
 
 ---
 
-- **Validation Batch 2 (Labels):**  
-![Validation Batch 2 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch2_labels.jpg)  
-
----
-
 ### 🌍 **Challenges and Considerations**  
 - Ensuring accurate emotion detection in varying lighting conditions.  
 - Addressing potential bias by considering cultural diversity in emotional expressions.  
