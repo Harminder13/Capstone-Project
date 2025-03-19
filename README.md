@@ -1,4 +1,4 @@
-## Real-Time Emotion Recognition and Adaptive Tracking
+## Capstone Project: Machine Learning System for Emotion Recognition and Adaptive Tracking
 
 ### 📌 **Project Overview**  
 This project focuses on developing a machine learning-based system capable of detecting and displaying a user’s emotions through a camera that **automatically adjusts to their height** and centers on their face in real time. The system is designed to enhance personalized interactions by providing accurate emotional feedback in various settings, such as **mental health assessments**, **customer service**, and **virtual meetings**.  
