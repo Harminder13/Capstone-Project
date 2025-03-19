@@ -98,7 +98,7 @@ The normalized confusion matrix provides a clearer understanding of the model's 
 ---
 
 ### 🎯 **Training Results**  
-Here are sample outputs from the training process, showing the model's predictions:
+Here are sample outputs from the training and validation process, showing the model's predictions versus the ground truth::
 
 #### **Validation Results**  
 - **Validation Batch 0 (Labels vs Predictions):**  
