@@ -93,3 +93,74 @@ Check out the full project demo here:
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
 ---
+Here’s an updated **About Me** section with the images directly embedded from your repository:
+
+---
+
+## 📊 **Model Performance and Results**  
+Our model achieved impressive results during testing and validation. Below are key performance metrics and visualizations:  
+
+### ✅ **F1 Score Curve**  
+The F1 Score Curve shows the model's performance in terms of precision and recall across different epochs, indicating balanced learning.  
+![F1 Curve](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/F1_curve.png)  
+
+---
+
+### ✅ **Precision-Recall Curve**  
+The Precision-Recall Curve illustrates the trade-off between precision and recall, helping to understand the model’s sensitivity and specificity.  
+![PR Curve](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/PR_curve.png)  
+
+---
+
+### ✅ **P Curve (Precision)**  
+This graph shows how well the model maintains precision over time during training and validation.  
+![P Curve](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/P_curve.png)  
+
+---
+
+### ✅ **R Curve (Recall)**  
+The R Curve measures how effectively the model detects positive samples.  
+![R Curve](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/R_curve.png)  
+
+---
+
+### ✅ **Confusion Matrix**  
+The confusion matrix shows the number of correct and incorrect predictions for each class.  
+![Confusion Matrix](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/confusion_matrix.png)  
+
+---
+
+### ✅ **Normalized Confusion Matrix**  
+The normalized confusion matrix provides a clearer understanding of the model's classification accuracy by showing percentage-based values.  
+![Normalized Confusion Matrix](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/confusion_matrix_normalized.png)  
+
+---
+
+### 🎯 **Training and Validation Results**  
+Here are sample outputs from the training and validation process, showing the model's predictions versus the ground truth:
+
+#### **Training Results**  
+- **Training Batch 0:**  
+![Train Batch 0](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/train_batch0.jpg)  
+- **Training Batch 1:**  
+![Train Batch 1](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/train_batch1.jpg)  
+- **Training Batch 2:**  
+![Train Batch 2](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/train_batch2.jpg)  
+
+---
+
+#### **Validation Results**  
+- **Validation Batch 0 (Labels vs Predictions):**  
+![Validation Batch 0 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch0_labels.jpg)  
+![Validation Batch 0 Predictions](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch0_pred.jpg)  
+
+- **Validation Batch 1 (Labels vs Predictions):**  
+![Validation Batch 1 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch1_labels.jpg)  
+![Validation Batch 1 Predictions](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch1_pred.jpg)  
+
+- **Validation Batch 2 (Labels):**  
+![Validation Batch 2 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch2_labels.jpg)  
+
+---
+
+This setup makes your repository more engaging and professional — it's always good to showcase your model’s performance visually! 😎
