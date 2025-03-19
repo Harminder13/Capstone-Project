@@ -101,15 +101,15 @@ The normalized confusion matrix provides a clearer understanding of the model's 
 Here are sample outputs from the training process, showing the model's predictions:
 
 #### **Validation Results**  
-- **Validation Batch 0:**  
+- **Validation Batch 0 (Labels vs Predictions):**  
 ![Validation Batch 0 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch0_labels.jpg)  
 ![Validation Batch 0 Predictions](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch0_pred.jpg)  
 
-- **Validation Batch 1):**  
+- **Validation Batch 1 (Labels vs Predictions):**  
 ![Validation Batch 1 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch1_labels.jpg)  
 ![Validation Batch 1 Predictions](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch1_pred.jpg)  
 
-- **Validation Batch 2:**  
+- **Validation Batch 2 (Labels):**  
 ![Validation Batch 2 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch2_labels.jpg)  
 
 ---
@@ -149,3 +149,5 @@ Check out the full project demo here:
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
 ---
+
+
