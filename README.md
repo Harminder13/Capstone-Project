@@ -74,8 +74,10 @@ This project has the potential to improve human-computer interaction in areas su
 
 ---
 
-### 📹 **Demo**  
-Check out the full project demo here: [![Watch the demo](https://img.youtube.com/vi/nWPFgpKB1sE/0.jpg)](https://www.youtube.com/watch?v=nWPFgpKB1sE)
+### 📹 **Project Demo**  
+Check out the full project demo here:  
+
+[![Watch the demo](https://img.youtube.com/vi/nWPFgpKB1sE/0.jpg)](https://www.youtube.com/watch?v=nWPFgpKB1sE)  
 
 
 ---
