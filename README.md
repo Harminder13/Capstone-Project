@@ -75,7 +75,7 @@ This project has the potential to improve human-computer interaction in areas su
 ---
 
 ### 📹 **Demo**  
-Check out the full project demo here: [[Upload your video link here](https://www.youtube.com/watch?v=Y4Qa0lvjE8I)]  
+Check out the full project demo here: [[[Capstone Demo](https://www.youtube.com/watch?v=Y4Qa0lvjE8I](https://www.youtube.com/watch?v=nWPFgpKB1sE))]  
 
 ---
 
