@@ -58,45 +58,6 @@ The project involves three key interfaces:
 
 ---
 
-### 🌍 **Challenges and Considerations**  
-- Ensuring accurate emotion detection in varying lighting conditions.  
-- Addressing potential bias by considering cultural diversity in emotional expressions.  
-- Maintaining user privacy and preventing the perception of surveillance.  
-- Balancing cost-effectiveness with high-performance components.  
-
----
-
-### 💡 **Impact and Applications**  
-This project has the potential to improve human-computer interaction in areas such as:  
-- **Mental Health:** Providing real-time emotional feedback to improve therapy outcomes.  
-- **Customer Service:** Enhancing customer interactions by identifying and responding to emotional cues.  
-- **Virtual Meetings:** Creating more engaging and empathetic communication environments.  
-
----
-
-### 📹 **Project Demo**  
-Check out the full project demo here:  
-
-[![Watch the demo](https://img.youtube.com/vi/nWPFgpKB1sE/0.jpg)](https://www.youtube.com/watch?v=nWPFgpKB1sE)  
-
-
----
-
-### 👥 **Contributors**  
-- Justin Hoddenbagh
-- Jide Obatolu
-- Liam O’Regan
-- Harminder Saini 
-
----
-### 📄 **License**  
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
-
----
-Here’s an updated **About Me** section with the images directly embedded from your repository:
-
----
-
 ## 📊 **Model Performance and Results**  
 Our model achieved impressive results during testing and validation. Below are key performance metrics and visualizations:  
 
@@ -136,31 +97,55 @@ The normalized confusion matrix provides a clearer understanding of the model's 
 
 ---
 
-### 🎯 **Training and Validation Results**  
-Here are sample outputs from the training and validation process, showing the model's predictions versus the ground truth:
-
-#### **Training Results**  
-- **Training Batch 0:**  
-![Train Batch 0](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/train_batch0.jpg)  
-- **Training Batch 1:**  
-![Train Batch 1](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/train_batch1.jpg)  
-- **Training Batch 2:**  
-![Train Batch 2](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/train_batch2.jpg)  
-
----
+### 🎯 **Training Results**  
+Here are sample outputs from the training process, showing the model's predictions:
 
 #### **Validation Results**  
-- **Validation Batch 0 (Labels vs Predictions):**  
+- **Validation Batch 0:**  
 ![Validation Batch 0 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch0_labels.jpg)  
 ![Validation Batch 0 Predictions](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch0_pred.jpg)  
 
-- **Validation Batch 1 (Labels vs Predictions):**  
+- **Validation Batch 1):**  
 ![Validation Batch 1 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch1_labels.jpg)  
 ![Validation Batch 1 Predictions](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch1_pred.jpg)  
 
-- **Validation Batch 2 (Labels):**  
+- **Validation Batch 2:**  
 ![Validation Batch 2 Labels](https://raw.githubusercontent.com/Harminder13/Capstone-Project/main/Model%233_YoloV11s_Dataset%232/val_batch2_labels.jpg)  
 
 ---
 
-This setup makes your repository more engaging and professional — it's always good to showcase your model’s performance visually! 😎
+### 🌍 **Challenges and Considerations**  
+- Ensuring accurate emotion detection in varying lighting conditions.  
+- Addressing potential bias by considering cultural diversity in emotional expressions.  
+- Maintaining user privacy and preventing the perception of surveillance.  
+- Balancing cost-effectiveness with high-performance components.  
+
+---
+
+### 💡 **Impact and Applications**  
+This project has the potential to improve human-computer interaction in areas such as:  
+- **Mental Health:** Providing real-time emotional feedback to improve therapy outcomes.  
+- **Customer Service:** Enhancing customer interactions by identifying and responding to emotional cues.  
+- **Virtual Meetings:** Creating more engaging and empathetic communication environments.  
+
+---
+
+### 📹 **Project Demo**  
+Check out the full project demo here:  
+
+[![Watch the demo](https://img.youtube.com/vi/nWPFgpKB1sE/0.jpg)](https://www.youtube.com/watch?v=nWPFgpKB1sE)  
+
+
+---
+
+### 👥 **Contributors**  
+- Justin Hoddenbagh
+- Jide Obatolu
+- Liam O’Regan
+- Harminder Saini 
+
+---
+### 📄 **License**  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
+
+---
